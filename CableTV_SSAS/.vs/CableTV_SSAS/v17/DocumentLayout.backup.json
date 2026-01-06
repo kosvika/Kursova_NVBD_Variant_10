@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586D7FB5-BC0F-A2F8-5C0E-F904573605F8}|CableTV_SSAS\\CableTV_SSAS.dwproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSAS\\CableTV_SSAS\\CableTV_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{586D7FB5-BC0F-A2F8-5C0E-F904573605F8}|CableTV_SSAS\\CableTV_SSAS.dwproj|solutionrelative:CableTV_SSAS\\CableTV_Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CableTV_Cube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSAS\\CableTV_SSAS\\CableTV_Cube.cube",
+              "RelativeDocumentMoniker": "CableTV_SSAS\\CableTV_Cube.cube",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSAS\\CableTV_SSAS\\CableTV_Cube.cube [Design]",
+              "RelativeToolTip": "CableTV_SSAS\\CableTV_Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-06T00:14:56.715Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

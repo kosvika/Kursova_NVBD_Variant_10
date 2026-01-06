@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CableTV_SSRS", "CableTV_SSRS\CableTV_SSRS.rptproj", "{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.Debug|Default.ActiveCfg = Debug
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.Debug|Default.Build.0 = Debug
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.Debug|Default.Deploy.0 = Debug
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.DebugLocal|Default.Build.0 = DebugLocal
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.Release|Default.ActiveCfg = Release
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.Release|Default.Build.0 = Release
+		{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31A5B8D-417A-4AB6-9AE8-9C63FA6845B7}
+	EndGlobalSection
+EndGlobal

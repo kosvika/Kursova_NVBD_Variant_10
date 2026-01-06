@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="12/27/2025 3:19:45 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="VICTORY"
+  DTS:CreatorName="VICTORY\kosvi"
+  DTS:DTSID="{D988C540-6744-43BB-B2DC-B916B2433305}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="17.0.1010.2"
+  DTS:LocaleID="1058"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{CF3A245F-F98E-40C6-984E-4FFB945517F2}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

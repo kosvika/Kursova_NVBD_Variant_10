@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CableTV_SSAS", "CableTV_SSAS\CableTV_SSAS.dwproj", "{586D7FB5-BC0F-A2F8-5C0E-F904573605F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586D7FB5-BC0F-A2F8-5C0E-F904573605F8}.Development|Default.ActiveCfg = Development
+		{586D7FB5-BC0F-A2F8-5C0E-F904573605F8}.Development|Default.Build.0 = Development
+		{586D7FB5-BC0F-A2F8-5C0E-F904573605F8}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D89A70-7910-4755-9A42-A08195A40767}
+	EndGlobalSection
+EndGlobal

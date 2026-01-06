@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report7(DrillDown).rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report7(DrillDown).rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report6(Matrix).rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{DB7AE5E0-5B6F-1AEF-6098-F79B6EFCADF7}|CableTV_SSRS\\CableTV_SSRS.rptproj|solutionrelative:CableTV_SSRS\\Report6(Matrix).rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report7(DrillDown).rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report7(DrillDown).rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report7(DrillDown).rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report7(DrillDown).rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report7(DrillDown).rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-06T00:46:10.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report3.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report3.rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report3.rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report3.rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report3.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T11:37:33.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report2.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report2.rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report2.rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report2.rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T11:37:16.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report4.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report4.rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report4.rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report4.rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report4.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T11:37:55.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report5.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report5.rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report5.rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report5.rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report5.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T12:45:41.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report1.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report1.rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report1.rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report1.rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report1.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T11:36:57.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report6(Matrix).rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report6(Matrix).rdl",
+              "RelativeDocumentMoniker": "CableTV_SSRS\\Report6(Matrix).rdl",
+              "ToolTip": "C:\\Users\\kosvi\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041D\u0411\u0414\\CableTV_SSRS\\CableTV_SSRS\\Report6(Matrix).rdl [Design]",
+              "RelativeToolTip": "CableTV_SSRS\\Report6(Matrix).rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-06T00:29:30.6Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

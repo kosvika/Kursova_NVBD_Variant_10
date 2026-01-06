@@ -1,0 +1,65 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="75073c28-d615-4e98-8e23-8480f60dd160" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>CableTV_Cube</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>Fact Invoices</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="c47bb074-b2c6-40e1-9fd4-0344d0fe07a7">
+          <ID>Fact Invoices</ID>
+          <Name>Fact Invoices</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="76482a39-c555-4e07-9bbe-6be87dd2e3cf">
+            <DataSourceViewID>DSV_CableTV</DataSourceViewID>
+            <TableID>dbo_FactInvoices</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Movie Orders</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="c6122bb5-f3ca-4532-bf52-2873eac42d1a">
+          <ID>Fact Movie Orders</ID>
+          <Name>Fact Movie Orders</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="28d6215c-c58e-4bf0-8b85-bb79366959b8">
+            <DataSourceViewID>DSV_CableTV</DataSourceViewID>
+            <TableID>dbo_FactMovieOrders</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>Fact Invoices 1</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="9fff33a1-c7d0-42b5-b32b-99cde9fa8367">
+          <ID>Fact Invoices</ID>
+          <Name>Fact Invoices</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="7eb0aa5f-68ff-41b1-9f54-3daa8cb1c35a">
+            <DataSourceViewID>DSV_CableTV</DataSourceViewID>
+            <TableID>dbo_FactInvoices</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

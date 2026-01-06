@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>CableTV_OLAP</Database>
+    <Server>VICTORY\LOCALHOST</Server>
+    <ConnectionString>Data Source=VICTORY\LOCALHOST;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>nurTPEfWYE0ZuXh4KltgHm2U36A=29.12.2025 15:17:3229.12.2025 15:17:32</TimeStamp>
+        <ID>
+          <String>DS_CableTV_DWH</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>W/1AGczsc31tjEOYSdHBdJ1WD/0=06.01.2026 1:38:5629.12.2025 15:22:12</TimeStamp>
+        <ID>
+          <String>DSV_CableTV</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>uFEa1Lk0VphYLr0copfYersAFOU=29.12.2025 16:03:1629.12.2025 15:24:46</TimeStamp>
+        <ID>
+          <String>Dim Subscriber</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>R8h9xvlTiDZvh6j9LI0VbRdwL4A=29.12.2025 16:02:3029.12.2025 15:24:46</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>8OGdxyT0OTgfaZBuc8Nm0f1bF84=02.01.2026 18:40:1129.12.2025 15:24:46</TimeStamp>
+        <ID>
+          <String>Dim Movie</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>WfWZ4HXO0Ayj5fVaLCKQw55+O3Q=02.01.2026 18:47:5102.01.2026 18:47:04</TimeStamp>
+        <ID>
+          <String>Dim Genre</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>J9mCOp5FIwPTqrXe2jpyG3PE8yc=02.01.2026 18:47:5202.01.2026 18:47:38</TimeStamp>
+        <ID>
+          <String>Dim City</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>c2iREEF2qYueEetY7y46cIflWAI=06.01.2026 2:17:3529.12.2025 15:24:46G70I7ErxmqPPG5rps22oEsOhVwk=06.01.2026 2:06:2329.12.2025 15:24:46</TimeStamp>
+        <ID>
+          <String>CableTV_Cube</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>DiaZxRYIdyxM+/pvBje5Sroj+d4=29.12.2025 14:59:0129.12.2025 14:59:00</TimeStamp>
+      <ID>
+        <String>CableTV_OLAP</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2026-01-06T00:17:42.496667Z</LastDeployed>
+</DeploymentSnapshot>

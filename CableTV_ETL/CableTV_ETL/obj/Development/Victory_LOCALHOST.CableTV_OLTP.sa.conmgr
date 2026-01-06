@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Victory_LOCALHOST.CableTV_OLTP.sa"
+  DTS:DTSID="{618C5B24-E555-430A-87F1-B2544A946C2D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=Victory\LOCALHOST;User ID=sa;Initial Catalog=CableTV_OLTP;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-CableTV_ETL-{618C5B24-E555-430A-87F1-B2544A946C2D}Victory\LOCALHOST.CableTV_OLTP.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEfiy2S0gpEqgGBpuylWm7QAAAAACAAAAAAAQZgAAAAEAACAAAADJqUlfPHLqSpN9n2HT1XJbUNNmZgPhi2yEQRApSJwecAAAAAAOgAAAAAIAACAAAADrQv+CsT6wK7MtJ++wOeIeOmFXi2WO6WMyuN5DeexlQHAAAACUdZpSq8B7SNZXRCAJdDnecoxZlNmb66WinodY6sLgpyfW0cdMoePHX7quUNI8Y7EdclgWfMGA7mviFHw8jEAwNOAt8WxDvrigHt5ak1LFFFwyAhzVfpxP6IBX6b7y5s+qXqZcAZgbv1474NbYMn7RQAAAAGtlgPX5Ebi+DDlHuEGlJc55J7fHj+4dmwbe02vPSxGyKD5fLvW0rAjPzvaH/jyh/XmKmZvebRAf+dtKlgy0Fko=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
